@@ -1,14 +1,50 @@
+Skip to content
+Search or jump to…
+
+Pull requests
+Issues
+Marketplace
+Explore
+ 
+@CalebDeeRakower 
+Learn Git and GitHub without any code!
+Using the Hello World guide, you’ll start a branch, write comments, and open a pull request.
+
+
+CalebDeeRakower
+/
+CalebDee-Rakower2120Project1
+1
+0
+0
+Code
+Issues
+Pull requests
+Actions
+Projects
+Wiki
+Security
+Insights
+Settings
+CalebDee-Rakower2120Project1/.gitignore
+@CalebDeeRakower
+CalebDeeRakower Update .gitignore
+Latest commit 21baa45 on Feb 8
+ History
+ 1 contributor
+60 lines (49 sloc)  1007 Bytes
+  
 # This .gitignore file should be placed at the root of your Unity project directory
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
-/[Ll]ibrary/
-/[Tt]emp/
-/[Oo]bj/
-/[Bb]uild/
-/[Bb]uilds/
-/[Ll]ogs/
-/[Mm]emoryCaptures/
+[Ll]ibrary
+[Tt]emp
+[Oo]bj
+[Bb]uild
+[Bb]uilds/
+[Ll]ogs
+[Mm]emoryCaptures
 
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
@@ -58,3 +94,15 @@ sysinfo.txt
 # Crashlytics generated file
 crashlytics-build.properties
 
+© 2021 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Docs
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
